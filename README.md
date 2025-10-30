@@ -31,8 +31,8 @@ because I always like to be on "go go go" status, and I have high octane levels 
   [View on Credly](https://www.credly.com/badges/d522beaa-e454-4293-91ad-782278962ac2/public_url)
 
   
-  
 - 🎯 Each badge is verified through [Credly](https://www.credly.com/), ensuring authenticity.
+-------------------------------------------------------------------------------------
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
