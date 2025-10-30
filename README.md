@@ -1,35 +1,29 @@
-- 👋 Hi, my name is Joseph, but I also go by Lil T.
-- 👀 I have a Master's in Cybersecurity Management and Data Analytics, a Bachelor's in Cybersecurity, an Associate's in Computer Network Engineering and System administration, along with 
-several Microsoft certifications: Cloud, security, Windows Server, Windows 10, Mobile Device Management, and more. During my academic career, I have been known as the "Energizer Bunny."
-because I always like to be on "go go go" status, and I have high octane levels of energy and endurance. One of my hobbies is writing computer code, working on projects, pursuing technical certifications, traveling, and anything else. My paradise work environment is to do IT-related work at the beach while having my Pina Coladas. Overall, I always enjoy working on computers. I have built my one servers from installation of the operating system to advanced network configurations such as Virtual Private Networks.
-- There are quite a few Powerscripts I have built to automate the data migration process and deletion. The scripts I have written were for private companies and the  government sector. I have created these automation scripts because when I have migrated masses amounts of files to other locations, it became tedious and time-consuming.
+👋 About Me
 
-- 🛡️ Verifiable skills
-  Here are some of my verified credentials and badges that showcase my expertise:
+Hi, I’m Joseph (Lil T) — a highly motivated and hands-on Cybersecurity and Network Administration professional with a passion for protecting systems, optimizing networks, and automating IT workflows.
 
-  | Skill | Credential | Verification|
-  
-  Cybersecurity:
-  Cisco Support Technician Cybersecurity [CCST Cybersecurity]
-  [View on Credly](https://www.credly.com/badges/9392f6e9-9379-4aa0-a7e8-4509aacd005f/public_url)
+🎓 I hold a Master’s in Cybersecurity Management and Data Analytics, a Bachelor’s in Cybersecurity, and an Associate’s in Computer Network Engineering and System Administration, along with multiple Microsoft certifications covering Cloud, Security, Windows Server, Windows 10, and Mobile Device Management.
 
-  IT Specialist - Cybersecurity
-  [View on Credly](https://www.credly.com/badges/b3207f25-09a6-4a26-9eda-2bb5d39fcc38/public_url)
-  
-  IT Specialist - Network Security
-  [View on Credly](https://www.credly.com/badges/7abb7c5f-0f2c-4607-9938-5db986f7b96f/public_url)
+⚙️ I’ve built and maintained my own servers from OS installation to advanced configurations such as VPN setups and network segmentation. I also design PowerShell scripts that automate complex tasks like data migration and secure deletion for both private companies and government clients, saving time and minimizing human error.
 
-  Cloud:
-  Microsoft Certified - Azure Fundamentals
-  [View on Credly](https://www.credly.com/badges/d477577a-dc5e-46dc-8dbd-7be25b5a33ce/public_url)
+💡 I’m known as the “Energizer Bunny” among peers — always learning, always building, and always moving forward. My ideal workspace? Working on IT projects by the beach, laptop open, Pina Colada in hand 🏝️.
 
-  MTA - Cloud Fundamentals
-  [View on Credly](https://www.credly.com/badges/0bbeec6d-9645-4ee8-9e16-a4b1954b113e/public_url)
+🛡️ Verified Skills & Credentials
 
-  Desktop Support Specialist:
-  IT Technical Support Specialist
-  [View on Credly](https://www.credly.com/badges/d522beaa-e454-4293-91ad-782278962ac2/public_url)
+Category	Credential	Verification
+Cybersecurity	Cisco Certified Support Technician (CCST Cybersecurity)	View on Credly
 
+Cybersecurity	IT Specialist – Cybersecurity	View on Credly
+
+Network Security	IT Specialist – Network Security	View on Credly
+
+Cloud Computing	Microsoft Certified – Azure Fundamentals	View on Credly
+
+Cloud Fundamentals	MTA – Cloud Fundamentals	View on Credly
+
+IT Support	IT Technical Support Specialist	View on Credly
+
+⚡ Driven by curiosity, fueled by caffeine, and always focused on building secure, reliable systems that make a difference.
   
   🎯 *Each badge is verified through [Credly](https://www.credly.com/), ensuring authenticity.
 -------------------------------------------------------------------------------------
