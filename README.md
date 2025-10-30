@@ -8,7 +8,7 @@ because I always like to be on "go go go" status, and I have high octane levels 
   Here are some of my verified credentials and badges that showcase my expertise:
 
   | Skill | Credential | Verification|
-  |-------|------------|-------------|
+  
   Cybersecurity:
   Cisco Support Technician Cybersecurity [CCST Cybersecurity]
   [View on Credly](https://www.credly.com/badges/9392f6e9-9379-4aa0-a7e8-4509aacd005f/public_url)
